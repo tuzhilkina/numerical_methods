@@ -1,0 +1,2 @@
+add_executable(4interpolation interpolation.cpp)
+set_property(TARGET 4interpolation PROPERTY CXX_STANDARD 17)
